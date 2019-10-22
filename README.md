@@ -1,4 +1,4 @@
-# maven-project, con los segundos cambios
+# maven-project, con los terceros cambios
 Source code for Jenkins course.
 
 Check out our Latest DevOps PDF book.
