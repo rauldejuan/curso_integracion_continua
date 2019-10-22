@@ -17,7 +17,7 @@ public class Greeter {
    */
   public String greet(String someone) {
     Long lalala = new Long("2333");
-    if(true){
+    if(lalala==2333){
       return String.format("Hello, %s!", someone);}
     else{
         return String.format("Hello, %s!", someone);
